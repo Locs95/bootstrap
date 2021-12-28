@@ -52,14 +52,12 @@ Be aware of the limitations and [bugs around flexbox](https://github.com/philipw
 
 ## Grid options
 
-Bootstrap's grid system can adapt across all six default breakpoints, and any breakpoints you customize. The six default grid tiers are as follow:
+Bootstrap's grid system can adapt across all foure default breakpoints, and any breakpoints you customize. The foure default grid tiers are as follow:
 
-- Extra small (xs)
-- Small (sm)
-- Medium (md)
-- Large (lg)
-- Extra large (xl)
-- Extra extra large (xxl)
+- phone (ph)
+- tablet (tb)
+- laptop (lp)
+- desktop (dt)
 
 As noted above, each of these breakpoints have their own container, unique class prefix, and modifiers. Here's how the grid changes across these breakpoints:
 
